@@ -1,3 +1,7 @@
+## https://www.aclweb.org/anthology/C16-1024.pdf
+
+## Boudin et al. (2015) released a Python implementation (ICSI sume) that we use in our experiments
+
 # sume
 
 The sume module is an automatic summarization library written in Python.
